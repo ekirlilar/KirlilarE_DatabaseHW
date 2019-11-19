@@ -8,5 +8,5 @@ plt.plot(years, pops, color=(50/255, 100/255, 70/255), linewidth=3.0)
 
 plt.ylabel("Population by Billions")
 plt.xlabel("Growth by Year")
-plt.title("Global Population Growth by Year")
+plt.title("Global Population Growth by Year", pad=20)
 plt.show()
