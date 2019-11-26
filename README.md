@@ -1,3 +1,4 @@
+<img src="images/Hockey_Canada.png"> alt= "canada hokey logo"
 # Olympic Data Visualization Project
 
 ### This is my olympic data visualization project
