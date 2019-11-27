@@ -8,7 +8,7 @@ My story in this data visualization is looking at how Canada did in hockey olymp
 
 ### KirlilarE
 
-### Photoshop, Illustrator
+### Photoshop, Illustrator, Tableau
 
 ### License
 This Project is licensed
