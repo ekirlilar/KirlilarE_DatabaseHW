@@ -1,4 +1,5 @@
 <img src="images/Hockey_Canada.png">
+
 # Olympic Data Visualization Project
 
 ### This is my olympic data visualization project
