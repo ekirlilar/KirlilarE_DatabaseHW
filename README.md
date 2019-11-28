@@ -11,7 +11,7 @@ My story in this data visualization is looking at how Canada did in hockey olymp
 KirlilarE
 
 ### Used Tools
-Photoshop, Illustrator, Tableau
+Photoshop, Illustrator, Tableau, Excel, Python
 
 ### License
 This Project is licensed
