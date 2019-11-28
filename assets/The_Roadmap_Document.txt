@@ -1,0 +1,12 @@
+DataViz – Olympic Data Outline
+Creating analytical graphs using python according to Olympic data that is provided.
+
+Steps
+1.	Analyze the whole data that is given.
+2.	Choose a story
+3.	Analyze the data according the story that is chosen
+4.	Choose the charts
+5.	Design the mock ups for the data visualization in Ai and Ps
+6.	Generate the carts using Python.
+7.	Start to code according to design using html/css
+8.	Build the page
