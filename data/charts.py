@@ -1,12 +1,12 @@
 import matplotlib.pyplot as plt
 
-years = [1900, 1950, 1960, 1965, 1970, 1975, 1980, 1985, 1990, 1995, 2000, 2010, 2015]
+years = [1992, 1994, 1998, 2002, 2006, 2010, 2014]
 
-pops = [1.6, 2.5, 2.6, 3.0, 3.3, 3.6, 4.2, 4.4, 4.8, 5.3, 5.7, 6.1, 6.5]
+medals = [1, 2, 20, 20, 19, 21, 21]
 
-plt.plot(years, pops, color=(50/255, 100/255, 70/255), linewidth=3.0)
+plt.plot(years, medals, color=(50/255, 100/255, 70/255), linewidth=3.0)
 
-plt.ylabel("Population by Billions")
-plt.xlabel("Growth by Year")
+plt.ylabel("Canada Women")
+plt.xlabel("Years")
 plt.title("Global Population Growth by Year", pad=20)
 plt.show()

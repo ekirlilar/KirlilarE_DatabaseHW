@@ -1,3 +1,4 @@
+
 import csv
 import matplotlib.pyplot as plt
 
@@ -7,7 +8,7 @@ bronzes = []
 
 categories = [] #first row not data
 
-with open('usacanIcehockeymanWomen.csv') as csvfile:
+with open('CanIcehockeyWomen.csv') as csvfile:
 	reader = csv.reader(csvfile)
 	line_count = 0
 

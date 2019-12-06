@@ -7,7 +7,7 @@ bronzes = []
 
 categories = [] #first row not data
 
-with open('usacanIcehockeymanWomen.csv') as csvfile:
+with open('usaIcehockeyWomen.csv') as csvfile:
 	reader = csv.reader(csvfile)
 	line_count = 0
 

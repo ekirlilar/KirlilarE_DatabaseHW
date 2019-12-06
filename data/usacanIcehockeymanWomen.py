@@ -38,10 +38,10 @@ print(len(bronzes), "bronze medals")
 
 lables = ["Gold", "Silver", "Bronze"]
 sizes = [len(golds), len(silvers), len(bronzes)]
-color = ["gold", "silver", "darkgoldenrod"]
-explode = (0.1, 0.1, 0.1)
+color = ["Canada", "Usa"]
+explode = (0.1, 0.1)
 
-plt.pie(sizes, explode=explode, colors=color, autopct='1%.f%%', shadow=True, startangle=140)
+plt.pie(sizes, explode=explode, colors=color, autopct='%.1f%%', shadow=True, startangle=140)
 
 plt.axis('equal')
 
